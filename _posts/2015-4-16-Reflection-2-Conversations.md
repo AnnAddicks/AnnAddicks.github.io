@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soft skills - Rejecting ideas - A Reflection on Two Conversations
+title: A Reflection on Two Conversations
 ---
 
 Soft skills:  Rejecting ideas - A Reflection on Two Conversations
