@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Soft skills:  Rejecting ideas - A Reflection on Two Conversations
+title: Soft skills - Rejecting ideas - A Reflection on Two Conversations
 ---
 
+Soft skills:  Rejecting ideas - A Reflection on Two Conversations
 
 The programming field has a stereotype of severely lacking inter-personal skills whether it's being extremely introverted or an extroverted arrogant jerk.  I don't feel as though I have worked with either extreme, but every one of us (yes myself included) can use some time working on soft skills.  These skills include, but are not limited to personalities, communication, personal habits, communication friendliness, communication, etc.  that define relationships with their teammates.  With the exception of the people making money off mobile apps and games and the occasional single developer team for a company, if you are going to write software more than likely you are going to work with a team and communication if you didn't notice the triple mention above is one of the most important part of being a good teammate.
 
