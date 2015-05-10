@@ -6,20 +6,21 @@ permalink: /about/
 
 I enjoy programming, gardening, dreaming of a farm, security, cooking, teaching, and hugging trees.  
 
-### Favorite Podcasts:
+### Favorite Programming Podcasts:
 * [Paul's Security Weekly](http://securityweekly.com/)
 * [Full Stack Podcast](http://fullstackradio.com/)
 * [Developer Tea](https://developertea.com/)
 * [Programming Throwdown](http://www.programmingthrowdown.com/)
 * I'm still subscribed to Java Posse just in case :cry:
-(Off Topic Podcats):
-* This week in science
-* Story Collider
-* The Beginning Farmer Show
-* Chicken Thisle Farm Coopcast
-* The Moth
 
-A place to include any other types of information that you'd like to include about yourself.
+###Off Topic Podcats:
+* [This week in science](http://www.twis.org/)
+* [Story Collider](http://storycollider.org/)
+* [The Beginning Farmer Show](http://thebeginningfarmer.blogspot.com/)
+* [Chicken Thistle Farm Coopcast](http://ctfcoopcast.libsyn.com/)
+* [The Moth](http://themoth.org/about/programs/the-moth-podcast)
+
+
 
 ### Contact me
 
