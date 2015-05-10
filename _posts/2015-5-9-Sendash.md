@@ -1,7 +1,7 @@
 #My Hobby Project Sendash
 
 Sendash is an application to monitor a network's health.  This includes everything from change management to verifying status checks of VMWare, Palo Alto, network config, etc.  The goals are:
-store the data that vcheck (http://www.virtu-al.net/vcheck-pluginsheaders/vcheck/)  sends as a daily email, display the info and changes
+store the data that [vcheck](http://www.virtu-al.net/vcheck-pluginsheaders/vcheck/)  sends as a daily email, display the info and changes
 updates if something fails to check in
 Install automatically on the hardware devices and update when necessary
 Our use case is a group of consultants that receive a very long set of emails every day on the health of each customer's network.  This application will solve the problem of allowing the consultant to see what has changed at each site and if any site fails to check in to the new application.  The install scripts to create the health check are going to be configured by a web service.  These scripts will live on the above mentioned hardware and are required to not install anything such as Python, BASH, git, and anything useful (/wink), and since they are Windows boxes will be written in PowerShell.  
