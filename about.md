@@ -8,9 +8,10 @@ I enjoy programming, gardening, dreaming of a farm, security, cooking, teaching,
 
 ### Favorite Podcasts:
 * [Paul's Security Weekly](http://securityweekly.com/)
-* Full Stack Podcast
-* Developer Tea
-* Programming Throwdown
+* [Full Stack Podcast](http://fullstackradio.com/)
+* [Developer Tea](https://developertea.com/)
+* [Programming Throwdown](http://www.programmingthrowdown.com/)
+* I'm still subscribed to Java Posse just in case :cry:
 (Off Topic Podcats):
 * This week in science
 * Story Collider
