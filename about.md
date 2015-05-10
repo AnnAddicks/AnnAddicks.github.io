@@ -14,7 +14,7 @@ I enjoy programming, gardening, dreaming of a farm, security, cooking, teaching,
 * I'm still subscribed to Java Posse just in case :cry:
 
 ###Off Topic Podcats:
-* [This week in science](http://www.twis.org/)
+* [This week in Science](http://www.twis.org/)
 * [Story Collider](http://storycollider.org/)
 * [The Beginning Farmer Show](http://thebeginningfarmer.blogspot.com/)
 * [Chicken Thistle Farm Coopcast](http://ctfcoopcast.libsyn.com/)
