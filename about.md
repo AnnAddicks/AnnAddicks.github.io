@@ -6,7 +6,7 @@ permalink: /about/
 
 I enjoy programming, gardening, dreaming of a farm, security, cooking, teaching, and hugging trees.  
 
-### Favorite Programming Podcasts:
+### Favorite Programming & Security Podcasts:
 * [Paul's Security Weekly](http://securityweekly.com/)
 * [Full Stack Podcast](http://fullstackradio.com/)
 * [Developer Tea](https://developertea.com/)
