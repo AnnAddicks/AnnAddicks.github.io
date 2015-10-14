@@ -1,4 +1,7 @@
-#My Hobby Project Sendash
+---
+layout: post
+title: Hobby Project Sendash
+---
 
 Sendash is an application to monitor a network's health.  This includes everything from change management to verifying status checks of VMWare, Palo Alto, network config, etc.  The goals are:
 store the data that [vcheck](http://www.virtu-al.net/vcheck-pluginsheaders/vcheck/)  sends as a daily email, display the info and changes
