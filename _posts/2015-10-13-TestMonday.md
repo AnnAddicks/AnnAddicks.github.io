@@ -1,5 +1,6 @@
+layout: post
+title: A Trial of Test Monday
 
-A Trial of Test Monday
 
 I was once a part of a software project started from scratch and lucky enough to see it grow from our company as our first client and then outside clients afterwards.  We took the lean software approach where we deployed often, GUI’s frequently contained large amounts of changes, and we communicated regularly with our clients to make sure our goals were still meeting their needs.  We weren’t deploying as much as Flickr, but we had a twice a week deployment schedule.  
 
