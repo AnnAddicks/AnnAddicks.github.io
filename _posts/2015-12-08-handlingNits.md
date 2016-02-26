@@ -8,9 +8,9 @@ Other times you may need to look past them especially when a suggestion has been
 The third option is to look for a pattern and refactor the code.  In a past project I took a minor annoyance of comment defined behavior sections and turned it into a feature that helped us identify issues in production as soon as they happened.  We had a developer who made a habit of defining behavior sections in code using comments.  Check out this Java Spring controller:
 
 ```java
-\@RestController
-\@RequestMapping(value = ClientController.REQUEST_MAPPING)
-\@Api(value = "client", description = "CRUD client management.")
+&#64;RestController
+&#64;RequestMapping(value = ClientController.REQUEST_MAPPING)
+&#64;Api(value = "client", description = "CRUD client management.")
 public class ClientController extends AbstractRestHandler {
 
   public static final String REQUEST_MAPPING = "/api/admin/client";
